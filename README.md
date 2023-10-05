@@ -9,7 +9,7 @@ Dashboards can come from one or more underlying datasets or reports, and they ca
 Power BI is the only service that offers dashboards.
 Dashboards help users monitor their business, find answers, and see their most important metrics at a glance.0 They can be created by adding visuals from reports, which can be shared with other users on the Power BI app website
 
-# Power Bi Dashboard Objective:
+# Power BI Dashboard Objective:
 To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series Analysis, to provide valuable insights adn accurate sales forecasting
 
 # Description:
